@@ -1,0 +1,40 @@
+﻿<xml_mv_effect>5</xml_mv_effect>
+<xml_text_effect>2</xml_text_effect>
+<xml_PauseTime>7</xml_PauseTime>
+
+<xml_smalltext_x>50</xml_smalltext_x>
+<xml_smalltext_y>100</xml_smalltext_y>
+<xml_bigtext_x>50</xml_bigtext_x>
+<xml_bigtext_y>100</xml_bigtext_y>
+
+<SCENE>
+	<xml_image>headerbig3.jpg</xml_image>
+	<xml_bigtext>Use the xml file to edit this animation.</xml_bigtext>
+	<xml_smalltext>LOOK FOR XML_BIGTEXT & XML_SMALLTEXT TAGS</xml_smalltext>	
+
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+</SCENE>
+<SCENE >
+	<xml_image>headerbig2.jpg</xml_image>
+	<xml_bigtext>You can edit the flash anim with any text editor like notepad.</xml_bigtext>
+	<xml_smalltext>YOU DON'T NEED TO HAVE PURCHASED FLASH TO EDIT THIS</xml_smalltext>
+	<xml_align>right</xml_align>
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+</SCENE>
+<SCENE>
+	<xml_image>headerbig.jpg</xml_image>
+	<xml_bigtext>Do not change the copyright link.</xml_bigtext>
+	<xml_smalltext>YOU CAN ADD YOUR COPYRIGHT</xml_smalltext>
+	<xml_align>right</xml_align>
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+	<xml_bigtextcolor>#ffffff</xml_bigtextcolor>
+	<xml_bigtextshadow>#0000000</xml_bigtextshadow>
+</SCENE>
+
